@@ -1,0 +1,12 @@
+D:\Web\KT.TodoAppNTier\KT.TodoAppNTier.Entities\bin\Debug\net5.0\KT.TodoAppNTier.Entities.deps.json
+D:\Web\KT.TodoAppNTier\KT.TodoAppNTier.Entities\bin\Debug\net5.0\KT.TodoAppNTier.Entities.dll
+D:\Web\KT.TodoAppNTier\KT.TodoAppNTier.Entities\bin\Debug\net5.0\ref\KT.TodoAppNTier.Entities.dll
+D:\Web\KT.TodoAppNTier\KT.TodoAppNTier.Entities\bin\Debug\net5.0\KT.TodoAppNTier.Entities.pdb
+D:\Web\KT.TodoAppNTier\KT.TodoAppNTier.Entities\obj\Debug\net5.0\KT.TodoAppNTier.Entities.csproj.AssemblyReference.cache
+D:\Web\KT.TodoAppNTier\KT.TodoAppNTier.Entities\obj\Debug\net5.0\KT.TodoAppNTier.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web\KT.TodoAppNTier\KT.TodoAppNTier.Entities\obj\Debug\net5.0\KT.TodoAppNTier.Entities.AssemblyInfoInputs.cache
+D:\Web\KT.TodoAppNTier\KT.TodoAppNTier.Entities\obj\Debug\net5.0\KT.TodoAppNTier.Entities.AssemblyInfo.cs
+D:\Web\KT.TodoAppNTier\KT.TodoAppNTier.Entities\obj\Debug\net5.0\KT.TodoAppNTier.Entities.csproj.CoreCompileInputs.cache
+D:\Web\KT.TodoAppNTier\KT.TodoAppNTier.Entities\obj\Debug\net5.0\KT.TodoAppNTier.Entities.dll
+D:\Web\KT.TodoAppNTier\KT.TodoAppNTier.Entities\obj\Debug\net5.0\ref\KT.TodoAppNTier.Entities.dll
+D:\Web\KT.TodoAppNTier\KT.TodoAppNTier.Entities\obj\Debug\net5.0\KT.TodoAppNTier.Entities.pdb
